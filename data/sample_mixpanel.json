@@ -1,0 +1,34 @@
+[
+   {
+      "$distinct_id":"13b20239a29335",
+      "$properties":{
+         "$region":"California",
+         "$email":"harry.q.bovik@andrew.cmu.edu",
+         "$last_name":"Bovik",
+         "$created":"2012-11-20T15:26:16",
+         "$country_code":"US",
+         "$first_name":"Harry",
+         "Referring Domain":"news.ycombinator.com",
+         "$city":"Los Angeles",
+         "Last Seen":"2012-11-20T15:26:17",
+         "Referring URL":"http://news.ycombinator.com/",
+         "$last_seen":"2012-11-20T15:26:19"
+      }
+   },
+   {
+      "$distinct_id":"13a00df8730412",
+      "$properties":{
+         "$region":"California",
+         "$email":"anna.lytics@mixpanel.com",
+         "$last_name":"Lytics",
+         "$created":"2012-11-20T15:25:38",
+         "$country_code":"US",
+         "$first_name":"Anna",
+         "Referring Domain":"www.quora.com",
+         "$city":"Mountain View",
+         "Last Seen":"2012-11-20T15:25:39",
+         "Referring URL":"http://www.quora.com/What-...",
+         "$last_seen":"2012-11-20T15:25:42"
+      }
+   }
+]
